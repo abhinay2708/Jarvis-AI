@@ -1,11 +1,11 @@
 # Jarvis AI – Voice-Activated Personal Assistant 🤖
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)](https://www.python.org/)
-[![GitHub Repo Size](https://img.shields.io/github/repo-size/yourusername/jarvis-ai)](https://github.com/yourusername/jarvis-ai)
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/jarvis-ai?style=social)](https://github.com/yourusername/jarvis-ai/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/yourusername/jarvis-ai?style=social)](https://github.com/yourusername/jarvis-ai/network/members)
-[![GitHub Issues](https://img.shields.io/github/issues/yourusername/jarvis-ai)](https://github.com/yourusername/jarvis-ai/issues)
-[![License](https://img.shields.io/github/license/yourusername/jarvis-ai)](LICENSE)
+[![GitHub Repo Size](https://img.shields.io/github/repo-size/abhinay2708/jarvis-ai)](https://github.com/abhinay2708/jarvis-ai)
+[![GitHub Stars](https://img.shields.io/github/stars/abhinay2708/jarvis-ai?style=social)](https://github.com/abhinay2708/jarvis-ai/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/abhinay2708/jarvis-ai?style=social)](https://github.com//jarvis-ai/network/members)
+[![GitHub Issues](https://img.shields.io/github/issues/abhinay2708/jarvis-ai)](https://github.com/abhinay2708/jarvis-ai/issues)
+[![License](https://img.shields.io/github/license/abhinay2708/jarvis-ai)](LICENSE)
 
 ---
 
